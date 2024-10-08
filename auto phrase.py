@@ -7,7 +7,7 @@ tracker_list_urls = [
     "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ws.txt"
 ]
 
-# Output file where the Clash rules will be written
+# Output file where the Clash rules will be written (now ending with .list)
 output_file = "clash_bt_trackers.list"
 
 def get_domain_from_url(url):
@@ -19,8 +19,8 @@ def generate_clash_rules(trackers):
     for tracker in trackers:
         domain = get_domain_from_url(tracker)
         if domain:
-            # Apply DOMAIN[] for all domains
-            clash_rules.add(f"ruleset=🔄 BT Tracker,[]DOMAIN,{domain}")
+            # Use DOMAIN[] for exact domain match
+            clash_rules.add(f"DOMAIN,{domain}")
     return sorted(clash_rules)  # Sort the output for readability
 
 def main():
@@ -37,7 +37,7 @@ def main():
     # Generate Clash rules
     clash_rules = generate_clash_rules(all_trackers)
 
-    # Write rules to the output file
+    # Write rules to the output file (with .list extension)
     with open(output_file, "w") as f:
         f.write("\n".join(clash_rules))
     print(f"Clash rules generated and saved to {output_file}")
