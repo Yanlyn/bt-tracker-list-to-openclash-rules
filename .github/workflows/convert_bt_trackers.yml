@@ -27,7 +27,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add clash_bt_trackers.yml
+          git add clash_bt_trackers.list
           git commit -m "Update Clash BT tracker rules" || echo "No changes to commit"
           git pull --rebase  # Pull the latest changes before pushing
           git push origin main  # Push changes to the main branch
