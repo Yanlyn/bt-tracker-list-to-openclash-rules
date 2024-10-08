@@ -30,4 +30,5 @@ jobs:
           git add clash_bt_trackers.yml
           git commit -m "Update Clash BT tracker rules" || echo "No changes to commit"
           git pull --rebase  # Pull the latest changes before pushing
+          git push https://$ACTIONS_PAT@github.com/Yanlyn/bt-tracker-list-to-openclash-rules.git
           git push
