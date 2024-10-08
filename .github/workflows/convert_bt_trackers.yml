@@ -2,8 +2,8 @@ name: Convert BT Trackers to Clash Rules
 
 on:
   schedule:
-    - cron: '0 0 * * *'  
-  workflow_dispatch:  
+    - cron: '0 0 * * *'  # Run daily at midnight
+  workflow_dispatch:  # Allows manual trigger of the workflow
 
 jobs:
   convert:
@@ -21,7 +21,7 @@ jobs:
         run: pip install requests
 
       - name: Run conversion script
-        run: python3 'auto phrase.py' 
+        run: python3 'auto phrase.py'  # This runs the script you created
 
       - name: Commit changes
         run: |
@@ -29,7 +29,7 @@ jobs:
           git config --local user.name "GitHub Action"
           git add clash_bt_trackers.yml
           git commit -m "Update Clash BT tracker rules" || echo "No changes to commit"
-          git pull --rebase  
-          git push origin main  
+          git pull --rebase  # Pull the latest changes before pushing
+          git push origin main  # Push changes to the main branch
         env:
-          GITHUB_TOKEN: ${{ secrets.ACTIONS_PAT }}  # Use the PAT stored in the secrets
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Use GitHub's built-in token
