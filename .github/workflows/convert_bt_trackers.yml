@@ -21,7 +21,7 @@ jobs:
         run: pip install requests
 
       - name: Run conversion script
-        run: python3 'auto phrase.py'  
+        run: python3 'auto phrase.py' 
 
       - name: Commit changes
         run: |
@@ -30,6 +30,6 @@ jobs:
           git add clash_bt_trackers.yml
           git commit -m "Update Clash BT tracker rules" || echo "No changes to commit"
           git pull --rebase  
-          git push https://$ACTIONS_PAT@github.com/Yanlyn/bt-tracker-list-to-openclash-rules.git
+          git push origin main  
         env:
-          GITHUB_TOKEN: ${{ secrets.ACTIONS_PAT }} 
+          GITHUB_TOKEN: ${{ secrets.ACTIONS_PAT }}  # Use the PAT stored in the secrets
