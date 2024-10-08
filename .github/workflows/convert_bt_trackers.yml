@@ -24,10 +24,10 @@ jobs:
         run: python3 'auto phrase.py'  # This runs the script you created
 
       - name: Commit changes
-        run:
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add clash_bt_trackers.yml
-        git commit -m "Update Clash BT tracker rules" || echo "No changes to commit"
-        git pull --rebase  # Pull the latest changes before pushing
-        git push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add clash_bt_trackers.yml
+          git commit -m "Update Clash BT tracker rules" || echo "No changes to commit"
+          git pull --rebase  # Pull the latest changes before pushing
+          git push
