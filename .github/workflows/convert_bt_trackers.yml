@@ -24,7 +24,7 @@ jobs:
         run: python3 'auto phrase.py'  # This runs the script you created
 
       - name: Commit changes
-        run: |
+        run:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add clash_bt_trackers.yml
