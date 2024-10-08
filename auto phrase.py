@@ -8,7 +8,7 @@ tracker_list_urls = [
 ]
 
 # Output file where the Clash rules will be written
-output_file = "clash_bt_trackers.yml"
+output_file = "clash_bt_trackers.list"
 
 def get_domain_from_url(url):
     parsed_url = urlparse(url)
