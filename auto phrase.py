@@ -23,13 +23,13 @@ def classify_domain(domain):
         return f"ruleset=🔄 BT Tracker,[]DOMAIN,{domain}"
 
 def generate_clash_rules(trackers):
-    clash_rules = []
+    clash_rules = set()  # Use a set to automatically handle duplicates
     for tracker in trackers:
         domain = get_domain_from_url(tracker)
         if domain:
             domain_rule = classify_domain(domain)
-            clash_rules.append(domain_rule)
-    return clash_rules
+            clash_rules.add(domain_rule)  # Add rule to set (automatically avoids duplicates)
+    return sorted(clash_rules)  # Sort for better readability
 
 def main():
     all_trackers = []
