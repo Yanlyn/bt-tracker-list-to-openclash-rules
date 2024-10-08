@@ -15,12 +15,13 @@ def get_domain_from_url(url):
     return parsed_url.hostname
 
 def generate_clash_rules(trackers):
-    clash_rules = []
+    clash_rules = set()  # Use a set to avoid duplicates
     for tracker in trackers:
         domain = get_domain_from_url(tracker)
         if domain:
-            clash_rules.append(f"ruleset=🔄 BT Tracker,[]DOMAIN,{domain}")
-    return clash_rules
+            # Apply DOMAIN[] for all domains
+            clash_rules.add(f"ruleset=🔄 BT Tracker,[]DOMAIN,{domain}")
+    return sorted(clash_rules)  # Sort the output for readability
 
 def main():
     all_trackers = []
