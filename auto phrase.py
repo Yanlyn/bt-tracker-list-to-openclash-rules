@@ -15,21 +15,20 @@ def get_domain_from_url(url):
     return parsed_url.hostname
 
 def classify_domain(domain):
-    # If the domain has subdomains (more than 2 parts), use DOMAIN-SUFFIX[]
-    if domain.count('.') > 1:
+    # Default to DOMAIN[] unless the domain is very broad (more than 2 parts)
+    if domain.count('.') > 2:  # Now looking for cases with 3 or more parts (e.g., subdomains)
         return f"ruleset=🔄 BT Tracker,[]DOMAIN-SUFFIX,{domain}"
     else:
-        # Use DOMAIN[] for exact match
         return f"ruleset=🔄 BT Tracker,[]DOMAIN,{domain}"
 
 def generate_clash_rules(trackers):
-    clash_rules = set()  # Use a set to automatically handle duplicates
+    clash_rules = set()  # Use a set to avoid duplicates
     for tracker in trackers:
         domain = get_domain_from_url(tracker)
         if domain:
             domain_rule = classify_domain(domain)
-            clash_rules.add(domain_rule)  # Add rule to set (automatically avoids duplicates)
-    return sorted(clash_rules)  # Sort for better readability
+            clash_rules.add(domain_rule)  # Avoid duplicates by using set
+    return sorted(clash_rules)  # Sort the output for readability
 
 def main():
     all_trackers = []
