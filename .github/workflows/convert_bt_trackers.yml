@@ -2,8 +2,8 @@ name: Convert BT Trackers to Clash Rules
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Run daily at midnight
-  workflow_dispatch:  # Allows manual trigger of the workflow
+    - cron: '0 0 * * *'  
+  workflow_dispatch:  
 
 jobs:
   convert:
@@ -21,7 +21,7 @@ jobs:
         run: pip install requests
 
       - name: Run conversion script
-        run: python3 'auto phrase.py'  # This runs the script you created
+        run: python3 'auto phrase.py'  
 
       - name: Commit changes
         run: |
@@ -29,6 +29,7 @@ jobs:
           git config --local user.name "GitHub Action"
           git add clash_bt_trackers.yml
           git commit -m "Update Clash BT tracker rules" || echo "No changes to commit"
-          git pull --rebase  # Pull the latest changes before pushing
+          git pull --rebase  
           git push https://$ACTIONS_PAT@github.com/Yanlyn/bt-tracker-list-to-openclash-rules.git
-          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACTIONS_PAT }} 
