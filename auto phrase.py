@@ -5,6 +5,8 @@ from urllib.parse import urlparse
 tracker_list_urls = [
     "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt",
     "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ws.txt"
+    "https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all.txt"
+    "https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all_ws.txt"
 ]
 
 # Output file where the Clash rules will be written (now ending with .list)
