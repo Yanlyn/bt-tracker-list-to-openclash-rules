@@ -30,7 +30,6 @@ DOMAIN,odd-hd.fr
 DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
-DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.cl
 DOMAIN,open.trackerlist.xyz
@@ -40,6 +39,7 @@ DOMAIN,p4p.arenabg.com
 DOMAIN,public.tracker.vraphim.com
 DOMAIN,retracker.lanta.me
 DOMAIN,retracker.spark-rostov.ru
+DOMAIN,rfc5746.mywaifu.best
 DOMAIN,seeders-paradise.org
 DOMAIN,seedpeer.net
 DOMAIN,serpb.vpsburti.com
@@ -72,9 +72,7 @@ DOMAIN,tracker.edkj.club
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.fnix.net
 DOMAIN,tracker.gcrenwp.top
-DOMAIN,tracker.gigantino.net
 DOMAIN,tracker.gmi.gd
-DOMAIN,tracker.ipfsscan.io
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.itscraftsoftware.my.id
 DOMAIN,tracker.leechshield.link
@@ -90,7 +88,6 @@ DOMAIN,tracker.renfei.net
 DOMAIN,tracker.sbsub.com
 DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.srv00.com
-DOMAIN,tracker.theoks.net
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
