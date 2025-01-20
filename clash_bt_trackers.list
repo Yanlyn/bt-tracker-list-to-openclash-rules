@@ -24,6 +24,7 @@ DOMAIN,ipv4.rer.lol
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,isk.richardsw.club
 DOMAIN,ismaarino.com
+DOMAIN,leet-tracker.moe
 DOMAIN,martin-gebhardt.eu
 DOMAIN,ns-1.x-fins.com
 DOMAIN,open.acgtracker.com
@@ -58,6 +59,8 @@ DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
+DOMAIN,tracker.cloudit.top
+DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.darkness.services
 DOMAIN,tracker.deadorbit.nl
 DOMAIN,tracker.dler.com
@@ -70,7 +73,6 @@ DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.gigantino.net
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.ipv6tracker.org
-DOMAIN,tracker.leechshield.link
 DOMAIN,tracker.lilithraws.org
 DOMAIN,tracker.lintk.me
 DOMAIN,tracker.moxing.party
