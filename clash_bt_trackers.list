@@ -1,6 +1,5 @@
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
-DOMAIN,1337.abcvg.info
 DOMAIN,bandito.byterunner.io
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.ktrackers.com
@@ -10,6 +9,7 @@ DOMAIN,buny.uk
 DOMAIN,ch3oh.ru
 DOMAIN,concen.org
 DOMAIN,d40969.acod.regrucolo.ru
+DOMAIN,discord.heihachi.pw
 DOMAIN,evan.im
 DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
@@ -18,16 +18,12 @@ DOMAIN,fleira.no
 DOMAIN,highteahop.top
 DOMAIN,home.yxgz.club
 DOMAIN,ipv4announce.sktorrent.eu
-DOMAIN,isk.richardsw.club
 DOMAIN,ismaarino.com
-DOMAIN,leet-tracker.moe
 DOMAIN,martin-gebhardt.eu
 DOMAIN,ns-1.x-fins.com
 DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
-DOMAIN,open.dstud.io
 DOMAIN,open.stealth.si
-DOMAIN,open.tracker.cl
 DOMAIN,open.trackerlist.xyz
 DOMAIN,opentracker.io
 DOMAIN,p2p.publictracker.xyz
@@ -58,6 +54,7 @@ DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.dmcomic.org
+DOMAIN,tracker.dump.cl
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.fnix.net
 DOMAIN,tracker.gcrenwp.top
@@ -83,6 +80,7 @@ DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.vanitycore.co
+DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.xiaoduola.xyz
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker2.dler.org
