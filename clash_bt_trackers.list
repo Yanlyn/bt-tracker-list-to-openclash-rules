@@ -7,7 +7,6 @@ DOMAIN,bandito.byterunner.io
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.poletracker.org
 DOMAIN,bt.rer.lol
-DOMAIN,bt1.xxxxbt.cc
 DOMAIN,buny.uk
 DOMAIN,concen.org
 DOMAIN,d40969.acod.regrucolo.ru
@@ -26,7 +25,6 @@ DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,isk.richardsw.club
 DOMAIN,leet-tracker.moe
 DOMAIN,martin-gebhardt.eu
-DOMAIN,ns-1.x-fins.com
 DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
 DOMAIN,open.free-tracker.ga
@@ -47,7 +45,9 @@ DOMAIN,t.jaekr.sh
 DOMAIN,t.overflow.biz
 DOMAIN,torrent.hificode.in
 DOMAIN,tr.kxmp.cf
+DOMAIN,tr.zukizuki.org
 DOMAIN,tr4ck3r.duckdns.org
+DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.23794.top
 DOMAIN,tracker.aburaya.live
 DOMAIN,tracker.bitcoinindia.space
@@ -55,12 +55,10 @@ DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
-DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.cutie.dating
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.dmcomic.org
 DOMAIN,tracker.expli.top
-DOMAIN,tracker.filemail.com
 DOMAIN,tracker.fnix.net
 DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.ghostchu-services.top
@@ -70,6 +68,7 @@ DOMAIN,tracker.healthcareindia.store
 DOMAIN,tracker.hifimarket.in
 DOMAIN,tracker.hifitechindia.com
 DOMAIN,tracker.ipv6tracker.org
+DOMAIN,tracker.kmzs123.cn
 DOMAIN,tracker.leechshield.link
 DOMAIN,tracker.lintk.me
 DOMAIN,tracker.moeblog.cn
@@ -84,6 +83,7 @@ DOMAIN,tracker.renfei.net
 DOMAIN,tracker.sbsub.com
 DOMAIN,tracker.skillindia.site
 DOMAIN,tracker.srv00.com
+DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tritan.gg
