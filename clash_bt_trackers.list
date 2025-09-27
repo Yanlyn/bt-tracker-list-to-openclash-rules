@@ -1,5 +1,6 @@
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
+DOMAIN,1337.abcvg.info
 DOMAIN,1c.premierzal.ru
 DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,bandito.byterunner.io
@@ -12,20 +13,21 @@ DOMAIN,bvarf.tracker.sh
 DOMAIN,ch3oh.ru
 DOMAIN,concen.org
 DOMAIN,d40969.acod.regrucolo.ru
-DOMAIN,discord.heihachi.pw
 DOMAIN,evan.im
+DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
 DOMAIN,extracker.dahrkael.net
-DOMAIN,hificode.in
 DOMAIN,home.yxgz.club
 DOMAIN,ipv4.rer.lol
 DOMAIN,ipv4announce.sktorrent.eu
-DOMAIN,leet-tracker.moe
+DOMAIN,isk.richardsw.club
 DOMAIN,martin-gebhardt.eu
+DOMAIN,ns-1.x-fins.com
 DOMAIN,open-tracker.demonoid.ch
 DOMAIN,open.demonii.com
 DOMAIN,open.demonoid.ch
 DOMAIN,open.dstud.io
+DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
 DOMAIN,open.trackerlist.xyz
 DOMAIN,opentracker.io
@@ -42,6 +44,7 @@ DOMAIN,shubt.net
 DOMAIN,t.213891.xyz
 DOMAIN,t.overflow.biz
 DOMAIN,torrent.hificode.in
+DOMAIN,tr.kxmp.cf
 DOMAIN,tr.zukizuki.org
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
@@ -54,7 +57,6 @@ DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.cutie.dating
-DOMAIN,tracker.darkness.services
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.dmcomic.org
 DOMAIN,tracker.filemail.com
@@ -63,7 +65,6 @@ DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.ghostchu-services.top
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.healthcareindia.store
-DOMAIN,tracker.hifimarket.in
 DOMAIN,tracker.hifitechindia.com
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.leechshield.link
@@ -80,9 +81,9 @@ DOMAIN,tracker.sbsub.com
 DOMAIN,tracker.skillindia.site
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.tamersunion.org
-DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.torrust-demo.com
+DOMAIN,tracker.tritan.gg
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.valete.tf
 DOMAIN,tracker.vanitycore.co
