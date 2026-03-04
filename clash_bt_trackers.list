@@ -1,4 +1,5 @@
 DOMAIN,0123456789nonexistent.com
+DOMAIN,0d.kebhana.mx
 DOMAIN,1337.abcvg.info
 DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
@@ -13,7 +14,6 @@ DOMAIN,evan.im
 DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
 DOMAIN,extracker.dahrkael.net
-DOMAIN,home.yxgz.club
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,jvavav.com
 DOMAIN,leet-tracker.moe
@@ -28,6 +28,7 @@ DOMAIN,open.stealth.si
 DOMAIN,open.trackerlist.xyz
 DOMAIN,rekcart.duckdns.org
 DOMAIN,retracker.lanta.me
+DOMAIN,retracker.spark-rostov.ru
 DOMAIN,seeders-paradise.org
 DOMAIN,servandroidkino.ru
 DOMAIN,shahidrazi.online
@@ -35,7 +36,6 @@ DOMAIN,share.hkg-fansub.info
 DOMAIN,shubt.net
 DOMAIN,t.213891.xyz
 DOMAIN,t.overflow.biz
-DOMAIN,torrent.hificode.in
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentclub.online
 DOMAIN,tr.highstar.shop
@@ -49,6 +49,7 @@ DOMAIN,tracker.1h.is
 DOMAIN,tracker.alaskantf.com
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bluefrog.pw
+DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
 DOMAIN,tracker.corpscorp.online
@@ -57,8 +58,8 @@ DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.dhitechnical.com
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
+DOMAIN,tracker.dmcomic.org
 DOMAIN,tracker.ducks.party
-DOMAIN,tracker.filemail.com
 DOMAIN,tracker.flatuslifir.is
 DOMAIN,tracker.fnix.net
 DOMAIN,tracker.gcrenwp.top
@@ -67,16 +68,15 @@ DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.iochimari.moe
 DOMAIN,tracker.iperson.xyz
 DOMAIN,tracker.ixuexi.click
-DOMAIN,tracker.lintk.me
 DOMAIN,tracker.moeblog.cn
 DOMAIN,tracker.moeking.me
+DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.opentorrent.top
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.playground.ru
 DOMAIN,tracker.plx.im
 DOMAIN,tracker.pmman.tech
-DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
 DOMAIN,tracker.sbsub.com
 DOMAIN,tracker.skyts.net
@@ -85,16 +85,15 @@ DOMAIN,tracker.t-1.org
 DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.torrent.eu.org
-DOMAIN,tracker.torrust-demo.com
+DOMAIN,tracker.tritan.gg
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.tvunderground.org.ru
-DOMAIN,tracker.vanitycore.co
 DOMAIN,tracker.waaa.moe
+DOMAIN,tracker.wepzone.net
 DOMAIN,tracker.xiaoduola.xyz
 DOMAIN,tracker.zhuqiy.com
 DOMAIN,tracker1.myporn.club
 DOMAIN,tracker2.dler.org
-DOMAIN,tracker810.xyz
 DOMAIN,udp.tracker.projectk.org
-DOMAIN,utracker.ghostchu-services.top
-DOMAIN,www.genesis-sp.org
+DOMAIN,wepzone.net
+DOMAIN,www.torrentsnipe.info
