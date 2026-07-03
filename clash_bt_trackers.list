@@ -5,6 +5,7 @@ DOMAIN,admin.52ywp.com
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,concen.org
 DOMAIN,evan.im
+DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,leet-tracker.moe
@@ -14,6 +15,7 @@ DOMAIN,open.demonii.com
 DOMAIN,open.demonoid.ch
 DOMAIN,open.ftorrent.com
 DOMAIN,open.stealth.si
+DOMAIN,pybittrack.retiolus.net
 DOMAIN,rekcart.duckdns.org
 DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,shahidrazi.online
@@ -25,10 +27,8 @@ DOMAIN,tr.btube3.com
 DOMAIN,tr.highstar.shop
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
-DOMAIN,tr.zukizuki.org
+DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
-DOMAIN,tracker.004430.xyz
-DOMAIN,tracker.23794.top
 DOMAIN,tracker.7471.top
 DOMAIN,tracker.auctor.tv
 DOMAIN,tracker.bittor.pw
@@ -40,18 +40,19 @@ DOMAIN,tracker.dhitechnical.com
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.ducks.party
-DOMAIN,tracker.fnix.net
+DOMAIN,tracker.flatuslifir.is
+DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.hismz.cn
 DOMAIN,tracker.leechshield.link
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.nekomi.cn
-DOMAIN,tracker.nyaa.vc
 DOMAIN,tracker.opentorrent.top
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.peerfect.org
 DOMAIN,tracker.playground.ru
 DOMAIN,tracker.plx.im
+DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.privateseedbox.xyz
 DOMAIN,tracker.publictracker.xyz
 DOMAIN,tracker.qu.ax
@@ -64,4 +65,3 @@ DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker.zhuqiy.com
 DOMAIN,tracker2.dler.org
 DOMAIN,yuptracker-eu.gaijinent.com
-DOMAIN,zer0day.ch
