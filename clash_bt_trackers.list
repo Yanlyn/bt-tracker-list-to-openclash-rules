@@ -18,11 +18,11 @@ DOMAIN,open.ftorrent.com
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.cl
 DOMAIN,retracker01-msk-virt.corbina.net
-DOMAIN,seedpeer.net
 DOMAIN,t.213891.xyz
 DOMAIN,t.overflow.biz
 DOMAIN,tr.highstar.shop
 DOMAIN,tr.nyacat.pw
+DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.004430.xyz
@@ -30,6 +30,7 @@ DOMAIN,tracker.7471.top
 DOMAIN,tracker.aruku.ovh
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.cn.nyaa.net
+DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.dhitechnical.com
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
@@ -47,13 +48,16 @@ DOMAIN,tracker.nekomi.cn
 DOMAIN,tracker.nyaa.net
 DOMAIN,tracker.nyaa.vc
 DOMAIN,tracker.opentrackr.com
+DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.peerfect.org
 DOMAIN,tracker.playground.ru
 DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
+DOMAIN,tracker.skyts.net
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrents.observer
+DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.wildkat.net
 DOMAIN,tracker.zhuqiy.com
