@@ -1,6 +1,7 @@
 DOMAIN,004430.xyz
 DOMAIN,1337.abcvg.info
 DOMAIN,admin.52ywp.com
+DOMAIN,anime-tracker.aruku.kro.kr
 DOMAIN,archive.torrentonline.cc
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,evan.im
@@ -40,7 +41,6 @@ DOMAIN,tracker.ducks.party
 DOMAIN,tracker.evergarden.uk
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.foreverpirates.co
-DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.ilibr.org
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.nekomi.cn
@@ -53,8 +53,10 @@ DOMAIN,tracker.playground.ru
 DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
+DOMAIN,tracker.theoks.net
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrents.observer
+DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.wildkat.net
 DOMAIN,tracker.zhuqiy.com
